@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MedranoApol
-- 👀 I’m interested in Game Development & Machine Learning
+- 👀 I’m interested in anything Coding & anything Mathematics!
 
 <!---
 MedranoApol/MedranoApol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
